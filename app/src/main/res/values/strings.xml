@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InvaZionWebView</string>
+    <string name="vous_devez_vous_connecter_internet">Vous devez vous connecter à Internet.</string>
+</resources>
